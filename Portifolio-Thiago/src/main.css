@@ -36,8 +36,12 @@ a {
 .jc-end {
   justify-content: end;
 }
-jc-space-between {
+.jc-space-between {
   justify-content: space-between;
+  
+}
+.jc-space-around {
+  justify-content: space-around;
 }
 
 
