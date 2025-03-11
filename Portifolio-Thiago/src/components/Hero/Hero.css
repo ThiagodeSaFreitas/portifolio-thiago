@@ -1,0 +1,22 @@
+.hero {
+  background-position: center; 
+  margin-left: 5rem; 
+}
+
+.hero h1 {
+    font-family: 'Poppins';
+    font-size: 3rem;
+    
+}
+
+.hero p {
+    margin-left: 6rem;
+    width: 45%;
+    font-size: 1.2rem;
+
+}
+
+.hero-text {
+    
+
+}

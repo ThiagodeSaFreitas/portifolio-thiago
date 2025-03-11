@@ -1,0 +1,21 @@
+nav ul {
+    display: flex;
+    gap: 2rem; 
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: flex;
+}
+
+nav a img {
+    width: 3.8rem; 
+    height: auto;
+    transition: transform 0.3s ease; 
+}
+
+nav a:hover img {
+    transform: scale(1.2); 
+}

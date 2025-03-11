@@ -24,7 +24,7 @@ function Header () {
                     <a 
                         href="https://www.linkedin.com/in/thiagosafreitas/" 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        
                     >
                         <img src={Linkedin} alt="LinkedIn" />
                     </a>
@@ -32,7 +32,7 @@ function Header () {
                     <a 
                         href="https://github.com/ThiagodeSaFreitas" 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        
                     >
                         <img src={GitHub} alt="GitHub" />
                     </a>
